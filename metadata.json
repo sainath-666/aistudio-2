@@ -1,0 +1,6 @@
+{
+  "name": "AP Vision Outreach",
+  "description": "A technology-driven initiative providing quality eye care and affordable spectacles across all 26 districts of Andhra Pradesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["data-visualisation", "forms", "real-time-reporting"]
+}
